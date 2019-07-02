@@ -72,7 +72,7 @@ bot.on('ready', () => {
 
 
 
-bot.login("NTk1Mjk0MTc0MjYyMTk4MzMz.XRst_g.fEG4ChlPmnNe2tn9_ZjQaosNUtU")
+bot.login("TOKEN")
 
 
 
